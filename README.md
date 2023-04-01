@@ -5,21 +5,16 @@
 <h2 align="center">Technology Stack 💻</h2>
 
 <p align="center">
-[![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos/catalina-preview)
-
-[![macos-mojave](https://img.shields.io/badge/macos-mojave-brightgreen.svg)](https://www.apple.com/lae/macos/mojave)
-
-[![swift-version](https://img.shields.io/badge/swift-5.1-brightgreen.svg)](https://github.com/apple/swift)
-
-[![swiftui-version](https://img.shields.io/badge/swiftui-beta-brightgreen)](https://developer.apple.com/documentation/swiftui)
-
-[![xcode-version](https://img.shields.io/badge/xcode-11%20beta-brightgreen)](https://developer.apple.com/xcode/)
-
-[![rxswift](https://img.shields.io/badge/rxswift-5.0.1-brightgreen)](https://github.com/ReactiveX/RxSwift)
-
-[![build-status](https://travis-ci.com/backslash-f/aescryptable.svg?branch=master)](https://travis-ci.com/backslash-f/aescryptable)
-
-[![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://en.wikipedia.org/wiki/MIT_License)
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 
 ### Hi there 👋
@@ -41,21 +36,31 @@
 
 💻 If you're interested in learning more about my side projects or collaborating with me, don't be shy! Head to https://www.juanledesma.me/ and let's chat!
 
-</br>
-</br>
-</br>
+<h2 align="center">Reach me out on 👇🏻</h2>
 
-<!--
-**Juanledesmaa/Juanledesmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="mailto: jlmanuel8540@gmail.com">
+ <img src="https://img.shields.io/badge/-jlmanuel8540@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jlmanuel8540@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/juanmanuelledesma/">
+ <img src="https://img.shields.io/badge/-juanmanuelledesma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmanuelledesma/"/>
+</a>
+ <a href="https://www.juanledesma.me/">
+ <img src="https://img.shields.io/badge/-juanledesma.me-blue?style=flat-square&logo=Safari&logoColor=white&link=https://www.juanledesma.me/"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=juanledesmaa&show_icons=true&theme=radical&line_height=27">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
