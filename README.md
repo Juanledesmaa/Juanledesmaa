@@ -19,7 +19,7 @@
 
 ### Hi there 👋
 
-<img height="250" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/19560736/229314409-9fd5c7bd-dddd-4160-aeb0-c1a805bea42d.gif">
+<img height="200" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/19560736/229314409-9fd5c7bd-dddd-4160-aeb0-c1a805bea42d.gif">
 
 
 🤓 I'm an iOS developer.
